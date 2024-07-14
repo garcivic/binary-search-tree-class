@@ -1,0 +1,3 @@
+/Users/victorgarcia/Documents/CPSC/Exercises/binary-search-tree-class/build/CMakeFiles/bst.dir
+/Users/victorgarcia/Documents/CPSC/Exercises/binary-search-tree-class/build/CMakeFiles/edit_cache.dir
+/Users/victorgarcia/Documents/CPSC/Exercises/binary-search-tree-class/build/CMakeFiles/rebuild_cache.dir
